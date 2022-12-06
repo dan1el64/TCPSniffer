@@ -1,0 +1,15 @@
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\TCPSniffer.csproj.AssemblyReference.cache
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\TCPSniffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\TCPSniffer.AssemblyInfoInputs.cache
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\TCPSniffer.AssemblyInfo.cs
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\TCPSniffer.csproj.CoreCompileInputs.cache
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\bin\Debug\net6.0\TCPSniffer.exe
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\bin\Debug\net6.0\TCPSniffer.deps.json
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\bin\Debug\net6.0\TCPSniffer.runtimeconfig.json
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\bin\Debug\net6.0\TCPSniffer.dll
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\bin\Debug\net6.0\ref\TCPSniffer.dll
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\bin\Debug\net6.0\TCPSniffer.pdb
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\TCPSniffer.dll
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\ref\TCPSniffer.dll
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\TCPSniffer.pdb
+C:\Proyectos\SnifferTCP\TCPSniffer\TCPSniffer\obj\Debug\net6.0\TCPSniffer.genruntimeconfig.cache
