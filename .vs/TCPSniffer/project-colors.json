@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfda7b90-f4a0-4caa-a7a4-06665479b6de": {
+      "ProjectGuid": "cfda7b90-f4a0-4caa-a7a4-06665479b6de",
+      "DisplayName": "TCPSniffer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
